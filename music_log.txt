@@ -1,0 +1,213 @@
+================================================================================
+音乐频谱播放器详细日志 - 启动时间: 2026-05-23 01:20:54
+================================================================================
+
+[01:20:54.344] [INFO] 初始化 MusicPlayer | pygame_version=2.6.1 | python=3.13.13
+[01:20:54.832] [INFO] 显示模式更新 | 窗口尺寸=1200x700 | 缩放比例=(1.00,1.00)
+[01:20:54.832] [INFO] 窗口创建 | 逻辑尺寸=1200x700 | 全屏=False
+[01:20:54.923] [INFO] 自动缩放参考频段 | count=19 | freqs=['21.1', '23.6', '26.3', '29.3', '32.7', '36.5', '40.7', '45.5', '50.7', '56.6', '63.1', '70.4', '78.6', '87.7', '97.8', '109.1', '121.7', '135.8', '151.5']
+[01:20:55.057] [INFO] 音频流打开成功
+[01:20:55.060] [INFO] 扫描目录: C:\Users\KICE\Desktop\cpp\music_player\ubuntu | 文件夹数=2 | 音乐文件数=0
+[01:20:55.061] [INFO] MusicPlayer 初始化完成
+[01:20:55.061] [INFO] 进入主循环
+[01:20:57.967] [INFO] 扫描目录: C:\Users\KICE\Desktop\cpp\music_player | 文件夹数=5 | 音乐文件数=2
+[01:20:57.968] [INFO] 目录切换: C:\Users\KICE\Desktop\cpp\music_player
+[01:21:01.339] [INFO] 开始加载: C:\Users\KICE\Desktop\cpp\music_player\Heartstrings.ogg
+[01:21:04.267] [INFO] 加载成功 | 时长=291.76s | 总采样帧数=12866557
+[01:21:08.032] [INFO] 主循环 | fps=23.1 | playing=True | time=0.51/291.76
+[01:21:18.077] [INFO] 主循环 | fps=29.9 | playing=True | time=10.59/291.76
+[01:21:28.139] [INFO] 主循环 | fps=29.8 | playing=True | time=20.62/291.76
+[01:21:29.011] [INFO] G按下:True
+[01:21:38.204] [INFO] 主循环 | fps=29.8 | playing=True | time=30.70/291.76
+[01:21:48.291] [INFO] 主循环 | fps=29.7 | playing=True | time=40.77/291.76
+[01:21:58.374] [INFO] 主循环 | fps=29.8 | playing=True | time=50.85/291.76
+[01:22:08.439] [INFO] 主循环 | fps=29.8 | playing=True | time=60.93/291.76
+[01:22:18.522] [INFO] 主循环 | fps=29.8 | playing=True | time=71.01/291.76
+[01:22:28.598] [INFO] 主循环 | fps=29.8 | playing=True | time=81.08/291.76
+[01:22:38.685] [INFO] 主循环 | fps=29.7 | playing=True | time=91.16/291.76
+[01:22:48.746] [INFO] 主循环 | fps=29.8 | playing=True | time=101.24/291.76
+[01:22:58.805] [INFO] 主循环 | fps=29.8 | playing=True | time=111.32/291.76
+[01:23:08.870] [INFO] 主循环 | fps=29.8 | playing=True | time=121.35/291.76
+[01:23:18.941] [INFO] 主循环 | fps=29.8 | playing=True | time=131.42/291.76
+[01:23:23.657] [INFO] 扫描目录: C:\Users\KICE\Desktop\cpp | 文件夹数=7 | 音乐文件数=0
+[01:23:23.657] [INFO] 目录切换: C:\Users\KICE\Desktop\cpp
+[01:23:26.151] [INFO] 扫描目录: C:\Users\KICE\Desktop | 文件夹数=22 | 音乐文件数=2
+[01:23:26.151] [INFO] 目录切换: C:\Users\KICE\Desktop
+[01:23:29.059] [INFO] 主循环 | fps=29.6 | playing=False | time=0.00/291.76
+[01:23:31.585] [INFO] 扫描目录: C:\Users\KICE | 文件夹数=27 | 音乐文件数=0
+[01:23:31.585] [INFO] 目录切换: C:\Users\KICE
+[01:23:35.241] [INFO] 扫描目录: C:\Users\KICE\Music | 文件夹数=13 | 音乐文件数=9
+[01:23:35.242] [INFO] 目录切换: C:\Users\KICE\Music
+[01:23:38.789] [INFO] 扫描目录: C:\Users\KICE\Music\out | 文件夹数=1 | 音乐文件数=1
+[01:23:38.789] [INFO] 目录切换: C:\Users\KICE\Music\out
+[01:23:39.122] [INFO] 主循环 | fps=29.8 | playing=False | time=0.00/291.76
+[01:23:41.037] [INFO] 开始加载: C:\Users\KICE\Music\out\untitled.mp3
+[01:23:41.557] [INFO] 加载成功 | 时长=165.43s | 总采样帧数=7295616
+[01:23:49.694] [INFO] 主循环 | fps=28.4 | playing=True | time=6.50/165.43
+[01:23:53.719] [INFO] G按下:False
+[01:23:59.755] [INFO] 主循环 | fps=29.8 | playing=True | time=16.58/165.43
+[01:24:09.828] [INFO] 主循环 | fps=29.8 | playing=True | time=26.66/165.43
+[01:24:19.904] [INFO] 主循环 | fps=29.8 | playing=True | time=36.73/165.43
+[01:24:29.981] [INFO] 主循环 | fps=29.8 | playing=True | time=46.81/165.43
+[01:24:40.021] [INFO] 主循环 | fps=29.9 | playing=True | time=56.84/165.43
+[01:24:48.440] [INFO] 扫描目录: C:\Users\KICE\Music | 文件夹数=13 | 音乐文件数=9
+[01:24:48.440] [INFO] 目录切换: C:\Users\KICE\Music
+[01:24:50.045] [INFO] 主循环 | fps=29.9 | playing=False | time=0.00/165.43
+[01:24:52.603] [INFO] 扫描目录: C:\Users\KICE\Music\simple but good | 文件夹数=1 | 音乐文件数=4
+[01:24:52.604] [INFO] 目录切换: C:\Users\KICE\Music\simple but good
+[01:24:54.530] [INFO] 开始加载: C:\Users\KICE\Music\simple but good\2.wav
+[01:24:56.121] [INFO] 加载成功 | 时长=255.88s | 总采样帧数=11284122
+[01:25:01.654] [INFO] 主循环 | fps=25.8 | playing=True | time=4.23/255.88
+[01:25:11.698] [INFO] 主循环 | fps=29.9 | playing=True | time=14.26/255.88
+[01:25:21.758] [INFO] 主循环 | fps=29.8 | playing=True | time=24.33/255.88
+[01:25:31.803] [INFO] 主循环 | fps=29.9 | playing=True | time=34.37/255.88
+[01:25:41.862] [INFO] 主循环 | fps=29.8 | playing=True | time=44.44/255.88
+[01:25:51.905] [INFO] 主循环 | fps=29.9 | playing=True | time=54.47/255.88
+[01:26:01.946] [INFO] 主循环 | fps=29.9 | playing=True | time=64.51/255.88
+[01:26:11.988] [INFO] 主循环 | fps=29.9 | playing=True | time=74.58/255.88
+[01:26:17.548] [INFO] G按下:True
+[01:26:22.030] [INFO] 主循环 | fps=29.9 | playing=True | time=84.61/255.88
+[01:26:32.081] [INFO] 主循环 | fps=29.8 | playing=True | time=94.64/255.88
+[01:26:42.133] [INFO] 主循环 | fps=29.8 | playing=True | time=104.72/255.88
+[01:26:52.175] [INFO] 主循环 | fps=29.9 | playing=True | time=114.75/255.88
+[01:27:02.237] [INFO] 主循环 | fps=29.8 | playing=True | time=124.83/255.88
+[01:27:12.287] [INFO] 主循环 | fps=29.8 | playing=True | time=134.86/255.88
+[01:27:22.320] [INFO] 主循环 | fps=29.9 | playing=True | time=144.89/255.88
+[01:27:32.351] [INFO] 主循环 | fps=29.9 | playing=True | time=154.92/255.88
+[01:27:42.395] [INFO] 主循环 | fps=29.9 | playing=True | time=164.95/255.88
+[01:27:52.451] [INFO] 主循环 | fps=29.8 | playing=True | time=175.03/255.88
+[01:28:02.497] [INFO] 主循环 | fps=29.9 | playing=True | time=185.06/255.88
+[01:28:12.541] [INFO] 主循环 | fps=29.9 | playing=True | time=195.09/255.88
+[01:28:22.576] [INFO] 主循环 | fps=29.9 | playing=True | time=205.13/255.88
+[01:28:32.620] [INFO] 主循环 | fps=29.9 | playing=True | time=215.20/255.88
+[01:28:42.654] [INFO] 主循环 | fps=29.9 | playing=True | time=225.23/255.88
+[01:28:52.688] [INFO] 主循环 | fps=29.9 | playing=True | time=235.26/255.88
+[01:29:02.716] [INFO] 主循环 | fps=29.9 | playing=True | time=245.30/255.88
+[01:29:06.508] [INFO] 开始加载: C:\Users\KICE\Music\simple but good\PHONK..wav
+[01:29:07.543] [INFO] 加载成功 | 时长=165.12s | 总采样帧数=7282012
+[01:29:13.781] [INFO] 主循环 | fps=27.1 | playing=True | time=3.11/165.12
+[01:29:23.811] [INFO] 主循环 | fps=29.9 | playing=True | time=13.14/165.12
+[01:29:33.837] [INFO] 主循环 | fps=29.9 | playing=True | time=23.17/165.12
+[01:29:43.872] [INFO] 主循环 | fps=29.9 | playing=True | time=33.20/165.12
+[01:29:53.887] [INFO] 主循环 | fps=30.0 | playing=True | time=43.24/165.12
+[01:30:03.902] [INFO] 主循环 | fps=30.0 | playing=True | time=53.22/165.12
+[01:30:13.927] [INFO] 主循环 | fps=29.9 | playing=True | time=63.25/165.12
+[01:30:23.940] [INFO] 主循环 | fps=30.0 | playing=True | time=73.28/165.12
+[01:30:33.960] [INFO] 主循环 | fps=29.9 | playing=True | time=83.31/165.12
+[01:30:43.972] [INFO] 主循环 | fps=30.0 | playing=True | time=93.30/165.12
+[01:30:53.994] [INFO] 主循环 | fps=29.9 | playing=True | time=103.33/165.12
+[01:31:03.999] [INFO] 主循环 | fps=30.0 | playing=True | time=113.31/165.12
+[01:31:13.994] [INFO] 主循环 | fps=30.0 | playing=False | time=123.16/165.12
+[01:31:14.562] [INFO] 开始加载: C:\Users\KICE\Music\simple but good\untitled.wav
+[01:31:16.101] [INFO] 加载成功 | 时长=266.30s | 总采样帧数=11743745
+[01:31:25.517] [INFO] 主循环 | fps=26.0 | playing=True | time=8.27/266.30
+[01:31:35.525] [INFO] 主循环 | fps=30.0 | playing=True | time=18.25/266.30
+[01:31:45.542] [INFO] 主循环 | fps=29.9 | playing=True | time=28.28/266.30
+[01:31:55.550] [INFO] 主循环 | fps=30.0 | playing=True | time=38.27/266.30
+[01:32:05.569] [INFO] 主循环 | fps=29.9 | playing=True | time=48.30/266.30
+[01:32:15.619] [INFO] 主循环 | fps=29.9 | playing=False | time=57.07/266.30
+[01:32:20.109] [INFO] G按下:False
+[01:32:20.845] [INFO] 扫描目录: C:\Users\KICE\Music | 文件夹数=13 | 音乐文件数=9
+[01:32:20.846] [INFO] 目录切换: C:\Users\KICE\Music
+[01:32:25.012] [INFO] 扫描目录: C:\Users\KICE\Music\新建文件夹 | 文件夹数=6 | 音乐文件数=15
+[01:32:25.012] [INFO] 目录切换: C:\Users\KICE\Music\新建文件夹
+[01:32:25.662] [INFO] 主循环 | fps=29.9 | playing=False | time=0.00/266.30
+[01:32:28.385] [INFO] 扫描目录: C:\Users\KICE\Music | 文件夹数=13 | 音乐文件数=9
+[01:32:28.386] [INFO] 目录切换: C:\Users\KICE\Music
+[01:32:30.531] [INFO] 扫描目录: C:\Users\KICE\Music\新建文件夹 | 文件夹数=6 | 音乐文件数=15
+[01:32:30.532] [INFO] 目录切换: C:\Users\KICE\Music\新建文件夹
+[01:32:35.743] [INFO] 主循环 | fps=29.8 | playing=False | time=0.00/266.30
+[01:32:36.950] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹\Far_Away_From_Home.mp3
+[01:32:37.724] [INFO] 加载成功 | 时长=259.45s | 总采样帧数=11441664
+[01:32:46.577] [INFO] 主循环 | fps=27.7 | playing=True | time=7.20/259.45
+[01:32:53.728] [INFO] G按下:True
+[01:32:56.716] [INFO] 主循环 | fps=29.6 | playing=True | time=17.32/259.45
+[01:33:06.776] [INFO] 主循环 | fps=29.8 | playing=True | time=27.40/259.45
+[01:33:16.857] [INFO] 主循环 | fps=29.8 | playing=True | time=37.48/259.45
+[01:33:26.937] [INFO] 主循环 | fps=29.8 | playing=True | time=47.55/259.45
+[01:33:37.007] [INFO] 主循环 | fps=29.8 | playing=True | time=57.63/259.45
+[01:33:47.071] [INFO] 主循环 | fps=29.8 | playing=True | time=67.71/259.45
+[01:33:57.139] [INFO] 主循环 | fps=29.8 | playing=True | time=77.79/259.45
+[01:34:07.215] [INFO] 主循环 | fps=29.8 | playing=True | time=87.86/259.45
+[01:34:17.298] [INFO] 主循环 | fps=29.8 | playing=True | time=97.94/259.45
+[01:34:23.289] [INFO] 扫描目录: C:\Users\KICE\Music\新建文件夹\adsewma | 文件夹数=1 | 音乐文件数=0
+[01:34:23.289] [INFO] 目录切换: C:\Users\KICE\Music\新建文件夹\adsewma
+[01:34:27.246] [INFO] G按下:False
+[01:34:27.382] [INFO] 主循环 | fps=29.8 | playing=False | time=0.00/259.45
+[01:34:28.191] [INFO] 扫描目录: C:\Users\KICE\Music\新建文件夹 | 文件夹数=6 | 音乐文件数=15
+[01:34:28.191] [INFO] 目录切换: C:\Users\KICE\Music\新建文件夹
+[01:34:29.197] [INFO] 扫描目录: C:\Users\KICE\Music | 文件夹数=13 | 音乐文件数=9
+[01:34:29.198] [INFO] 目录切换: C:\Users\KICE\Music
+[01:34:34.852] [INFO] 扫描目录: C:\Users\KICE\Music\新建文件夹 (2) | 文件夹数=1 | 音乐文件数=15
+[01:34:34.853] [INFO] 目录切换: C:\Users\KICE\Music\新建文件夹 (2)
+[01:34:37.456] [INFO] 主循环 | fps=29.8 | playing=False | time=0.00/259.45
+[01:34:39.733] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹 (2)\11.mp3
+[01:34:39.883] [INFO] 加载成功 | 时长=5.54s | 总采样帧数=244224
+[01:34:46.842] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹 (2)\12.mp3
+[01:34:46.943] [INFO] 加载成功 | 时长=6.92s | 总采样帧数=305280
+[01:34:47.732] [INFO] 主循环 | fps=29.2 | playing=True | time=0.14/6.92
+[01:34:54.547] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹 (2)\13.mp3
+[01:34:54.638] [INFO] 加载成功 | 时长=9.06s | 总采样帧数=399744
+[01:34:57.883] [INFO] 主循环 | fps=29.6 | playing=True | time=2.51/9.06
+[01:35:04.474] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹 (2)\14.mp3
+[01:35:04.568] [INFO] 加载成功 | 时长=9.04s | 总采样帧数=398592
+[01:35:08.036] [INFO] 主循环 | fps=29.5 | playing=True | time=2.83/9.04
+[01:35:14.251] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹 (2)\15.mp3
+[01:35:14.335] [INFO] 加载成功 | 时长=3.71s | 总采样帧数=163584
+[01:35:18.175] [INFO] 主循环 | fps=29.6 | playing=True | time=2.55/3.71
+[01:35:19.355] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹 (2)\2.mp3
+[01:35:19.471] [INFO] 加载成功 | 时长=8.23s | 总采样帧数=362880
+[01:35:28.347] [INFO] 主循环 | fps=29.5 | playing=True | time=7.89/8.23
+[01:35:28.718] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹 (2)\3.mp3
+[01:35:28.804] [INFO] 加载成功 | 时长=7.13s | 总采样帧数=314496
+[01:35:36.814] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹 (2)\4.mp3
+[01:35:36.909] [INFO] 加载成功 | 时长=6.37s | 总采样帧数=281088
+[01:35:38.523] [INFO] 主循环 | fps=29.5 | playing=True | time=0.93/6.37
+[01:35:44.019] [INFO] 开始加载: C:\Users\KICE\Music\新建文件夹 (2)\5.mp3
+[01:35:44.110] [INFO] 加载成功 | 时长=6.50s | 总采样帧数=286848
+[01:35:45.399] [INFO] 扫描目录: C:\Users\KICE\Music | 文件夹数=13 | 音乐文件数=9
+[01:35:45.399] [INFO] 目录切换: C:\Users\KICE\Music
+[01:35:47.854] [INFO] 扫描目录: C:\Users\KICE\Music\高品质 | 文件夹数=2 | 音乐文件数=6
+[01:35:47.854] [INFO] 目录切换: C:\Users\KICE\Music\高品质
+[01:35:48.642] [INFO] 主循环 | fps=29.6 | playing=False | time=0.00/6.50
+[01:35:50.973] [INFO] 扫描目录: C:\Users\KICE\Music\高品质\I LOVE IT | 文件夹数=1 | 音乐文件数=7
+[01:35:50.974] [INFO] 目录切换: C:\Users\KICE\Music\高品质\I LOVE IT
+[01:35:52.229] [INFO] 开始加载: C:\Users\KICE\Music\高品质\I LOVE IT\I Love It.mp3
+[01:35:52.887] [INFO] 加载成功 | 时长=155.35s | 总采样帧数=6851023
+[01:35:59.345] [INFO] 主循环 | fps=28.0 | playing=False | time=0.00/155.35
+[01:36:00.151] [INFO] G按下:True
+[01:36:09.418] [INFO] 主循环 | fps=29.8 | playing=True | time=8.13/155.35
+[01:36:19.464] [INFO] 主循环 | fps=29.9 | playing=True | time=18.16/155.35
+[01:36:29.525] [INFO] 主循环 | fps=29.8 | playing=True | time=28.19/155.35
+[01:36:39.583] [INFO] 主循环 | fps=29.8 | playing=True | time=38.27/155.35
+[01:36:49.639] [INFO] 主循环 | fps=29.8 | playing=True | time=48.34/155.35
+[01:36:59.681] [INFO] 主循环 | fps=29.9 | playing=True | time=58.37/155.35
+[01:37:09.715] [INFO] 主循环 | fps=29.9 | playing=True | time=68.41/155.35
+[01:37:19.755] [INFO] 主循环 | fps=29.9 | playing=True | time=78.44/155.35
+[01:37:29.816] [INFO] 主循环 | fps=29.8 | playing=True | time=88.51/155.35
+[01:37:32.464] [INFO] G按下:False
+[01:37:33.271] [INFO] 扫描目录: C:\Users\KICE\Music\高品质 | 文件夹数=2 | 音乐文件数=6
+[01:37:33.271] [INFO] 目录切换: C:\Users\KICE\Music\高品质
+[01:37:34.077] [INFO] 扫描目录: C:\Users\KICE\Music | 文件夹数=13 | 音乐文件数=9
+[01:37:34.077] [INFO] 目录切换: C:\Users\KICE\Music
+[01:37:37.777] [INFO] 扫描目录: C:\Users\KICE\Music\MUSIC | 文件夹数=2 | 音乐文件数=66
+[01:37:37.777] [INFO] 目录切换: C:\Users\KICE\Music\MUSIC
+[01:37:39.882] [INFO] 主循环 | fps=29.8 | playing=False | time=0.00/155.35
+[01:37:49.944] [INFO] 主循环 | fps=29.8 | playing=False | time=0.00/155.35
+[01:37:54.936] [INFO] 开始加载: C:\Users\KICE\Music\MUSIC\Light.mp3
+[01:37:55.860] [INFO] 加载成功 | 时长=235.01s | 总采样帧数=10363852
+[01:38:00.904] [INFO] 主循环 | fps=27.4 | playing=True | time=3.85/235.01
+[01:38:10.197] [INFO] G按下:True
+[01:38:10.935] [INFO] 主循环 | fps=29.9 | playing=True | time=13.89/235.01
+[01:38:20.986] [INFO] 主循环 | fps=29.8 | playing=True | time=23.92/235.01
+[01:38:31.033] [INFO] 主循环 | fps=29.9 | playing=True | time=33.95/235.01
+[01:38:41.057] [INFO] 主循环 | fps=29.9 | playing=True | time=43.98/235.01
+[01:38:51.100] [INFO] 主循环 | fps=29.9 | playing=True | time=54.06/235.01
+[01:39:01.140] [INFO] 主循环 | fps=29.9 | playing=True | time=64.09/235.01
+[01:39:11.163] [INFO] 主循环 | fps=29.9 | playing=True | time=74.12/235.01
+[01:39:21.192] [INFO] 主循环 | fps=29.9 | playing=True | time=84.15/235.01
+[01:39:31.234] [INFO] 主循环 | fps=29.9 | playing=True | time=94.18/235.01
+[01:39:41.253] [INFO] 主循环 | fps=29.9 | playing=True | time=104.21/235.01
+[01:39:51.272] [INFO] 主循环 | fps=29.9 | playing=True | time=114.20/235.01
+[01:40:01.320] [INFO] 主循环 | fps=29.9 | playing=True | time=124.27/235.01
+[01:40:07.231] [INFO] 清理资源
